@@ -1,3 +1,3 @@
-recipients = "andrew8b2@gmail.com"
+recipients = "patrick@meltcollective.com"
 sender = "mugshare.testing@gmail.com"
 sender_pwd = "Hello=123"
